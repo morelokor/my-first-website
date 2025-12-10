@@ -1,2 +1,1 @@
-# my-first-website
-its a website that i copied and learned from my best friend and what made me intrested to website coding
+pls put these files in a folder to open them
