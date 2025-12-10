@@ -1,0 +1,170 @@
+body{
+    background-color: #3a3a3a;
+    padding: 0;
+    margin: 0;
+    background-image: url(b5x4IDe.png);
+}
+
+
+header{
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 50px;
+    margin-top: 70px;
+    color: #fff;
+    border-radius: 20px;
+}
+.box {
+    border-radius: 25px;
+    background: #fff;
+    padding: 10px;
+    width: 68%;
+    height: 568.99999px;
+    margin: auto;
+    position: relative;
+    margin-top: 30px;
+    overflow: scroll;
+}
+.rules{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 29.3px;
+    margin-top: 50px;
+    margin-left: 39.1px;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.p1{
+    font-size: xx-large;
+}
+.title2{
+    font-size: 13.3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    animation-name: beat;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes beat{
+    0%{
+
+    
+    }
+
+    50%{
+        scale: 1.1;
+    }
+    100%{
+       transition: 0.3s ease-out;
+    }
+}
+
+.title{
+    animation-name: beat2;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes beat2{
+    0%{
+
+
+    }
+    50%{
+        scale: 1.1;
+    }
+    100%{
+        transition: 0.3 ease-out;
+    }
+}
+
+
+.steve{
+    position: absolute;
+    right: 70px;
+    top: 5px;
+    width: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    justify-content: space-between;
+}
+a:hover{
+    color: rgb(85, 85, 85);
+}
+
+.rules:hover{
+    transform: scale(1.05);
+    color: rgb(85, 85, 85);
+}    
+.steve:hover{
+     transform: scale(1.09);
+}
+.list1{
+list-style-type: none;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.list2{
+    list-style-type: none;
+}
+.killing{
+    font-size: 30.3px;
+    transition: transform 0.3s ease;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 4px;
+}
+.killing:hover{
+    transform: scale(1.05);
+}
+.t1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+.griefing{
+    font-size: 30.3px;
+    transition: transform 0.3s ease;
+    margin-bottom: 4px;
+}
+.griefing:hover{
+    transform: scale(1.05);
+}
+.list3{
+    list-style-type: none;
+}
+.power{
+    font-size: 30.3px;
+    margin-bottom: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition:  0.3s ease;
+    cursor: pointer;
+}
+.power:hover{
+    transform: scale(1.05);
+}
+.t3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+.list4{
+    list-style-type: none;
+}
+.hack{
+    cursor: pointer;
+    font-size: 30.3px;
+    margin-bottom: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: 0.3s ease;
+}
+.hack:hover{
+    transform: scale(1.05);
+}
+.t4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+.list5{
+    list-style-type: none;
+}
